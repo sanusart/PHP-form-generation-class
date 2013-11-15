@@ -1,0 +1,14 @@
+{
+    "name": "sanusart/php-form-generation-class",
+    "description": "Generates strings of formated html from given class functions",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Sasha Khamkov",
+            "email": "sanusart@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=4.3.0"
+    }
+}
