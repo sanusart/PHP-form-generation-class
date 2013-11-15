@@ -1,7 +1,10 @@
 {
     "name": "sanusart/php-form-generation-class",
     "description": "Generates strings of formated html from given class functions",
-    "minimum-stability": "stable",
+    "type": "library",
+    "keywords": ["forms"],
+    "homepage": "https://github.com/sanusart/PHP-form-generation-class",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sasha Khamkov",
