@@ -1,6 +1,6 @@
 <?php
-require('class.form.php');
-$form = new form();
+include_once "../src/form.php";
+$form = new sanusart\form();
 
 $form->field_open('MY COOL TEXT',0,0,0,0);
 $form->label('name','First name: ');

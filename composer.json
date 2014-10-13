@@ -13,5 +13,10 @@
     ],
     "require": {
         "php": ">=4.3.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "sanusart\\form\\":"src"
+        }
     }
 }

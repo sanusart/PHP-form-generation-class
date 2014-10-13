@@ -1,5 +1,5 @@
 ### Form generation class
 
-Generates strings of formated html from given class functions.
+Generates strings of formatted HTML from given class functions.
 
-See `index.php` for usage example.
+See `example/index.php` for usage example or see [demo](http://runnable.com/VDhdI3Iw4Kg7-vfd/php-form-generation-class)
